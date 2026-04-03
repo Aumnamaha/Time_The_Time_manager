@@ -25,12 +25,13 @@ You can install Tim directly from the source code in under a minute. No mystery 
    - Click the green **"Code"** button and select **"Download ZIP"**.
 2. **Extract the folder**
    - Unzip the downloaded file and place the `Tim_The_Time_manager` folder somewhere permanent on your computer.
+   - Delete the Readme and Landing folder and keep the (Tim_The_Time_manager)folder.
 3. **Open Browser Extensions**
    - Head to `chrome://extensions` (or `edge://extensions` for Microsoft Edge) in your browser address bar.
 4. **Enable "Developer Mode"**
    - Flip the toggle in the top-right corner to **ON**. This allows you to load local extensions.
 5. **Load the Extension**
-   - Click the **"Load unpacked"** button and select the extracted folder. Tim will appear in your extensions bar! 🎉
+   - Click the **"Load unpacked"** button and select the extracted folder (Tim_The_Time_manager). Tim will appear in your extensions bar! 🎉
 
 ---
 
